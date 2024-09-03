@@ -27,7 +27,7 @@ export const navigation = [
     ],
   },
   {
-    title: "Connect",
+    title: "Connectez",
     links: SocialMediaProfiles,
   },
 ];
