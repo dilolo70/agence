@@ -24,7 +24,7 @@ const AboutPage = () => {
             Chez Studio, nous sommes plus que des collègues — nous sommes une famille. Cela
             signifie que nous payons très peu et attendons que les gens travaillent tard. Nous
             voulons que nos employés apportent leur être tout entier au travail. En retour, nous
-            leur demandons simplement de rester au bureau jusqu'à au moins 18h30.
+            leur demandons simplement de rester au bureau jusqu&lsquo;à au moins 18h30.
           </p>
         </div>
       </PageIntro>
