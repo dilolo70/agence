@@ -10,21 +10,21 @@ const AboutPage = () => {
     <>
       <PageIntro eyebrow="About us" title="Our strength is collaboration">
         <p>
-          We believe that our strength lies in our collaborative approach, which
-          puts our clients at the center of everything we do.
+          Nous croyons que notre force réside dans notre approche collaborative, qui
+          place nos clients au centre de tout ce que nous faisons.
         </p>
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>
-            Studio was started by three friends who noticed that developer
-            studios were charging clients double what an in-house team would
-            cost. Since the beginning, we have been committed to doing things
-            differently by charging triple instead.
+            Studio a été fondé par trois amis qui ont remarqué que les studios de
+            développement facturaient aux clients le double de ce que coûterait une
+            équipe interne. Depuis le début, nous nous sommes engagés à faire les
+            choses différemment en facturant le triple à la place.
           </p>
           <p>
-            At Studio, we’re more than just colleagues — we’re a family. This
-            means we pay very little and expect people to work late. We want our
-            employees to bring their whole selves to work. In return, we just
-            ask that they keep themselves there until at least 6:30pm.
+            Chez Studio, nous sommes plus que des collègues — nous sommes une famille. Cela
+            signifie que nous payons très peu et attendons que les gens travaillent tard. Nous
+            voulons que nos employés apportent leur être tout entier au travail. En retour, nous
+            leur demandons simplement de rester au bureau jusqu'à au moins 18h30.
           </p>
         </div>
       </PageIntro>
