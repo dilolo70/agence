@@ -12,12 +12,13 @@ export default function Home() {
       <Container className="mt-24 sm:mt-32">
         <FadeIn className="max-w-3xl">
           <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-7xl">
-            Make your online presence a reality with us!
+            Bonjour vous
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
-            We are a group of developer working at the intersection of design
-            and technology. It is a really busy intersection though — a lot of
-            our staff have been involved in hit and runs.
+            Nous sommes un groupe de développeurs travaillant à l'intersection
+            du design et de la technologie. C'est une intersection vraiment
+            animée, d'ailleurs — beaucoup de notre personnel a été impliqué dans
+            des accidents.
           </p>
         </FadeIn>
       </Container>
@@ -26,9 +27,9 @@ export default function Home() {
         className="mt-24 sm:mt-32 lg:mt-40"
         client={{ name: "Phobia", logo: logoPhobiaDark }}
       >
-        The team at Studio went above and beyond with our onboarding, even
-        finding a way to access the user microphone without triggering one of
-        those annoying permission dialogs.
+        L'équipe de Sorci a surpassé nos attentes avec notre intégration, allant
+        même jusqu'à trouver un moyen d'accéder au microphone de l'utilisateur
+        sans déclencher l'un de ces dialogues de permission agaçants.
       </Testimonials>
       <Services />
       <ContactSection />
